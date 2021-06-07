@@ -4,24 +4,19 @@ Achieving Expert-Level Interpretation of Serum Protein Electrophoresis through D
 
 <strong>Authors</strong>
 
-Floris Chabrun*†,1,2, Xavier Dieu†,1,2, Marc Ferré2, Olivier Gaillard3, Anthony Mery1, Juan Manuel Chao de la Barca1,2, Audrey Taisne1, Geoffrey Urbanski2,4, Pascal Reynier§,1,2, Delphine Mirebeau-Prunier§,1,2
+Floris Chabrun<sup>*†,1,2</sup>, Xavier Dieu<sup>†,1,2</sup>, Marc Ferré<sup>2</sup>, Olivier Gaillard<sup>3</sup>, Anthony Mery<sup>1</sup>, Juan Manuel Chao de la Barca<sup>1,2</sup>, Audrey Taisne<sup>1</sup>, Geoffrey Urbanski<sup>2,4</sup>, Pascal Reynier<sup>§,1,2</sup>, Delphine Mirebeau-Prunier<sup>§,1,2</sup>
 
-
-†and § contributed equally to this manuscript
-
+<sup>†</sup>and <sup>§</sup> contributed equally to this manuscript
 
 <strong>Affiliations</strong>
 
+<sup>1</sup>Laboratoire de Biochimie et Biologie moléculaire, Centre Hospitalier Universitaire d’Angers, France
 
-1Laboratoire de Biochimie et Biologie moléculaire, Centre Hospitalier Universitaire d’Angers, France
+<sup>2</sup>Unité Mixte de Recherche (UMR) MITOVASC, Centre National de la Recherche Scientifique (CNRS) 6015, Institut National de la Santé et de la recherche Médicale (INSERM) U1083, Université d’Angers, France
 
-2Unité Mixte de Recherche (UMR) MITOVASC, Centre National de la Recherche Scientifique (CNRS) 6015, Institut National de la Santé et de la recherche Médicale (INSERM) U1083, Université d’Angers, France
+<sup>3</sup>Laboratoire de Biochimie, Centre Hospitalier du Mans, France
 
-3Laboratoire de Biochimie, Centre Hospitalier du Mans, France
-
-4Service de Médecine Interne et Immunologie Clinique, Centre Hospitalier Universitaire d’Angers, France
-
-*Corresponding author: Chabrun Floris, Laboratoire de Biochimie et Biologie moléculaire, Centre Hospitalier Universitaire d’Angers, 4 rue Larrey, 49933 Angers Cedex 9, France floris.chabrun@chu-angers.fr
+<sup>4</sup>Service de Médecine Interne et Immunologie Clinique, Centre Hospitalier Universitaire d’Angers, France
 
 ## Content
 
