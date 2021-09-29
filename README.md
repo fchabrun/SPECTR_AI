@@ -1,8 +1,8 @@
 # SPECTR: Serum Protein Electrophoresis Computer-Assisted Recognition Artificial Intelligence
 
-SPECTR application : [SPECTR](https://spectr.shinyapps.io/SPECTR)
+Find the online SPECTR application at [https://spectr.shinyapps.io/SPECTR](https://spectr.shinyapps.io/SPECTR)
 
-Achieving Expert-Level Interpretation of Serum Protein Electrophoresis through Deep Learning Driven by Human Reasoning
+## Achieving Expert-Level Interpretation of Serum Protein Electrophoresis through Deep Learning Driven by Human Reasoning
 
 <strong>Authors</strong>
 
