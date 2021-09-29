@@ -1,6 +1,6 @@
 # SPECTR: Serum Protein Electrophoresis Computer-Assisted Recognition Artificial Intelligence
 
-![Main Figure](images/mainfig.jpg)
+![Main Figure](mainfig.jpg)
 
 Find the online SPECTR application at [https://spectr.shinyapps.io/SPECTR](https://spectr.shinyapps.io/SPECTR)
 
