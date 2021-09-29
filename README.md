@@ -1,5 +1,7 @@
 # SPECTR: Serum Protein Electrophoresis Computer-Assisted Recognition Artificial Intelligence
 
+![Main Figure](images/mainfig.jpg)
+
 Find the online SPECTR application at [https://spectr.shinyapps.io/SPECTR](https://spectr.shinyapps.io/SPECTR)
 
 Find the full original article at [https://doi.org/10.1093/clinchem/hvab133](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvab133/6365844)
@@ -42,7 +44,7 @@ SPECTR is an algorithm based on artificial intelligence suitable to high-through
 
 Find the full original article at [https://doi.org/10.1093/clinchem/hvab133](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvab133/6365844)
 
-## Content
+## Repository Content
 
 ### /SPECTR
 The app.R script contains the SPECTR application, including the expert system and the user interface.
