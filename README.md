@@ -1,5 +1,7 @@
 # SPECTR: Serum Protein Electrophoresis Computer-Assisted Recognition Artificial Intelligence
 
+SPECTR application : [SPECTR](https://spectr.shinyapps.io/SPECTR)
+
 Achieving Expert-Level Interpretation of Serum Protein Electrophoresis through Deep Learning Driven by Human Reasoning
 
 <strong>Authors</strong>
@@ -17,6 +19,22 @@ Floris Chabrun<sup>*†,1,2</sup>, Xavier Dieu<sup>†,1,2</sup>, Marc Ferré<su
 <sup>3</sup>Laboratoire de Biochimie, Centre Hospitalier du Mans, France
 
 <sup>4</sup>Service de Médecine Interne et Immunologie Clinique, Centre Hospitalier Universitaire d’Angers, France
+
+## Abstract
+
+### Background
+Serum protein electrophoresis (SPE) is a common clinical laboratory test, mainly indicated for the diagnosis and follow-up of monoclonal gammopathies. A time-consuming and potentially subjective human expertise is required for SPE analysis to detect possible pitfalls and to provide a clinically relevant interpretation.
+
+### Methods
+An expert-annotated SPE dataset of 159 969 entries was used to develop SPECTR (serum protein electrophoresis computer-assisted recognition), a deep learning-based artificial intelligence, which analyzes and interprets raw SPE curves produced by an analytical system into text comments that can be used by practitioners. It was designed following academic recommendations for SPE interpretation, using a transparent architecture avoiding the “black box” effect. SPECTR was validated on an external, independent cohort of 70 362 SPEs and challenged by a panel of 9 independent experts from other hospital centers.
+
+### Results
+SPECTR was able to identify accurately both quantitative abnormalities (r ≥ 0.98 for fractions quantification) and qualitative abnormalities [receiver operating characteristic–area under curve (ROC–AUC) ≥ 0.90 for M-spikes, restricted heterogeneity of immunoglobulins, and beta-gamma bridging]. Furthermore, it showed highly accurate at both detecting (ROC–AUC ≥ 0.99) and quantifying (r = 0.99) M-spikes. It proved highly reproducible and resilient to minor variations and its agreement with human experts was higher (κ = 0.632) than experts between each other (κ = 0.624).
+
+### Conclusions
+SPECTR is an algorithm based on artificial intelligence suitable to high-throughput SPEs analyses and interpretation. It aims at improving SPE reproducibility and reliability. It is freely available in open access through an online tool providing fully editable validation assistance for SPE.
+
+Find the full original article at [https://doi.org/10.1093/clinchem/hvab133](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvab133/6365844)
 
 ## Content
 
